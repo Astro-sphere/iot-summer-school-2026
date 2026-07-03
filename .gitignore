@@ -1,0 +1,23 @@
+# Arduino / C++ compiled output
+*.hex
+*.elf
+*.o
+*.a
+build/
+*.bin
+
+# Arduino IDE
+*.d
+.build/
+
+# Secrets — never commit API keys or Wi-Fi passwords
+config.h
+secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE config
+.vscode/
+.idea/
