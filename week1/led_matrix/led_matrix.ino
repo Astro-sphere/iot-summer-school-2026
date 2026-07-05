@@ -1,6 +1,6 @@
 /*
 Project: 4x4 LED Matrix
-Author: <your name>
+Author: SATYAM KUMAR
 Desc: lights each led one by one, then shows a letter, on a scanned 4x4 matrix
 Date: 2026-07-04
 */
