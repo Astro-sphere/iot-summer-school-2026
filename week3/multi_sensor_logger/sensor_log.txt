@@ -1,0 +1,60 @@
+
+ 94 %
+Distance : 139 cm
+==================
+=== SENSOR LOG ===
+Time : 20217 ms
+Temp : 106.74 C
+Light : 88 %
+Distance : 140 cm
+==================
+=== SENSOR LOG ===
+Time : 25279 ms
+Temp : 44.73 C
+Light : 88 %
+Distance : 304 cm
+==================
+=== SENSOR LOG ===
+Time : 30341 ms
+Temp : 44.73 C
+Light : 94 %
+Distance : 297 cm
+==================
+=== SENSOR LOG ===
+Time : 35401 ms
+Temp : 75.98 C
+Light : 88 %
+Distance : 297 cm
+==================
+=== SENSOR LOG ===
+Time : 40451 ms
+Temp : 10.06 C
+Light : 93 %
+Distance : 109 cm
+==================
+=== SENSOR LOG ===
+Time : 45511 ms
+Temp : 68.65 C
+Light : 93 %
+Distance : 276 cm
+==================
+=== SENSOR LOG ===
+Time : 50572 ms
+Temp : 68.65 C
+Light : 64 %
+Distance : 291 cm
+==================
+=== SENSOR LOG ===
+Time : 55632 ms
+Temp : 36.91 C
+Light : 92 %
+Distance : 301 cm
+==================
+=== SENSOR LOG ===
+Time : 60678 ms
+Temp : 68.65 C
+Light : 92 %
+Distance : 22 cm
+==================
+ABCDE123456ABCDEMade with Tinkercad®Title:Brilliant Elzing-JofoDate:5/7/2026, 12:04:22 pmSheet:1/1R210kR1+VSVOUTGNDU2A0A1A2A3A4A5IOREFRESVIN5V3.3VAREFGNDRXTXD2D13D3D4D5D6D7D8D9D10D11D12SDASCLArduinoUNOU1VCCTRIGGNDECHODIST1U1_5VU1_GND
+
