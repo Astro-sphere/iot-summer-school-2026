@@ -1,6 +1,6 @@
 /*
 Project: Smart Street Light
-Author: <your name>
+Author: SATYAM KUMAR
 Desc: reads an LDR, turns LED on when it is dark (value below 300)
 Date: 2026-07-04
 */
